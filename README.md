@@ -1,4 +1,5 @@
 # Hummingbird Data
+**(a blurb made public for my 2 favorite followers)**
 
 Someday, I will have hummingbird data and possibly data on a few other birds as well, but right now I don't know what my project will be. I do know that I will be studying some aspect of vision as it relates to flight, I'm just not sure yet if I will be working on the neuro side of vision or the behavior side. For now, I will speculate briefly on both possibilities.
 
