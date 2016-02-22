@@ -35,3 +35,5 @@ This would involve using a flight tunnel or similar construction with walls upon
 6. analyze video data for responses to each type of stimuli
 
 Data produced would be free flight recordings as related to visual stimuli
+
+[Altshuler Lab](http://altshuler.zoology.ubc.ca/index.html) in case you want to know more or heaven forbid, read some of our papers. Yours truly under personnel.
