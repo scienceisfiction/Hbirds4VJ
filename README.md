@@ -36,4 +36,12 @@ This would involve using a flight tunnel or similar construction with walls upon
 
 Data produced would be free flight recordings as related to visual stimuli
 
+## About the lab
+
 [Altshuler Lab](http://altshuler.zoology.ubc.ca/index.html) in case you want to know more or heaven forbid, read some of our papers. Yours truly under personnel.
+
+Fig. 1 Integrated, multilevel systems approach to the study of bird ﬂight. Aerodynamic forces are inﬂuenced by wing shape and wing motion. The latter is actively controlled by the neuromuscular system, which is informed by a diverse sensory suite.
+
+![](C:\Users\Melissa\Documents\UBC\Git\Hbirds4VJ\Images\LabFlightReviewGraphic.jpg)
+
+Altshuler Lab Review, 2015, The biophysics of bird flight, *Can. J. Zool.* Vol. 93, 961-975
