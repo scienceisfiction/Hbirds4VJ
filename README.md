@@ -42,6 +42,6 @@ Data produced would be free flight recordings as related to visual stimuli
 
 Fig. 1 Integrated, multilevel systems approach to the study of bird ﬂight. Aerodynamic forces are inﬂuenced by wing shape and wing motion. The latter is actively controlled by the neuromuscular system, which is informed by a diverse sensory suite.
 
-![](C:\Users\Melissa\Documents\UBC\Git\Hbirds4VJ\Images\LabFlightReviewGraphic.jpg)
+![](Images\LabFlightReviewGraphic.png)
 
 Altshuler Lab Review, 2015, The biophysics of bird flight, *Can. J. Zool.* Vol. 93, 961-975
